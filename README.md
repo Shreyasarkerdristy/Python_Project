@@ -1,2 +1,2 @@
 # Python_Project
-Developed multiple Python projects using VS Code, continuously improving them by modifying features and adding new functionality.
+Developed  Python project using VS Code. Here, use python to generate data for a random walk and then use Matplotlib to create a visually appealing representation of that data. 
